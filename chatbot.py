@@ -49,7 +49,7 @@ def get_response(message):
 
 
 print("=" * 45)
-print("       STUDENT SUPPORT AI CHATBOT")
+print("          CAMPUSASSIST AI")
 print("=" * 45)
 print("Type 'bye' to exit the chatbot.\n")
 
