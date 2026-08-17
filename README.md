@@ -1,6 +1,6 @@
 # CampusAssist AI
 
-AI-based student support chatbot designed to provide quick assistance for common student queries.
+CampusAssist AI is a Python-based student support system designed to provide quick assistance for common campus-related queries.
 
 ## Features
 
